@@ -1,0 +1,2 @@
+# Audio_Guide_for_Visually_Impaired_Kayakers
+Audio Guide Leveraging Precise Location Technology
